@@ -1,0 +1,11 @@
+{
+  "name": "jagamakan-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "resend": "^6.32.1"
+  }
+}
